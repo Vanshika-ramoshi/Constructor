@@ -1,0 +1,13 @@
+package com.constructor;
+
+public class TempratureMain {
+
+	
+	public static void main(String[] args) {
+		
+		Temperature t1 = new Temperature(25);
+		t1.temperatureConverter();
+		
+	}
+
+}
